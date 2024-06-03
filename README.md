@@ -1,4 +1,4 @@
-## Cub3D
+## Cub3D 🧊
 3D Point Of View
 
 ## Description 🔍
