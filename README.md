@@ -1,5 +1,5 @@
 ## Cub3D
-3D POV
+3D Point Of View
 
 ## Description 🔍
 3D Game View of a Player, Display of a map closed by walls, with different texture for the 4 direction wall (North, Weast, East, South).
